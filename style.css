@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #e4e5e9;
+  }
+  
+  /* Header */
+  
+  .header {
+    background-color: #343a40;
+    width: 100%;
+    height: 200px;
+  }
+  
+  .img_container {
+    /* background-color: black; */
+    width: 50%;
+    float: left;
+  }
+  
+  .img {
+    border-radius: 75px;
+    margin-top: 20px;
+    margin-left: 50px;
+  }
+  
+  .title {
+    /* background-color: blue; */
+    width: 50%;
+    float: right;
+    color: #fff;
+  }
+  
+  /* Experience */
+  
+
+
+  .left {
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+   
+  }
+  .right {
+    width: 50%;
+    float: right;
+   
+  }
+  
+ 
+  
+  .right p {
+    margin-top: 50px;
+  }
