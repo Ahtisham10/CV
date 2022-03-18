@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CV</title>
+
+    <link rel="stylesheet" href="styling.css" />
+  </head>
+  <body>
+    <!-- Header -->
+    <div class="header">
+      <div class="img_container">
+        <img src="./20200915_183937.jpg" class="img" alt="" width="150" height="150" />
+      </div>
+      <div class="title">
+        <h1>Ahtsham Ul Haq</h1>
+        <hr />
+        <p>Web Developer</p>
+      </div>
+    </div>
+
+    <!-- Experience -->
+    <div class="exp_container">
+      <div class="heading">
+        <h1 class="heading_text">Experience</h1>
+      </div>
+      <div class="left">
+        <ul class="list">
+          <li>Senior web Developer<br />(2019-2022)</li>
+          <li>Junior Developer<br />(2018-2019)</li>
+          
+        </ul>
+      </div>
+      <div class="right">
+        <p>
+          Netsol pvt ltd
+        </p>
+        <p>
+          System ltd
+        </p>
+      
+      </div>
+    </div>
+
+    <!-- Education -->
+    <div>
+      <div class="heading">
+        <h1 class="heading_text">Education</h1>
+      </div>
+      <div class="left">
+        <ul class="list">
+          
+          <li>Bachelors in Computer Science<br />(2019-present)</li>
+          <li>Pre-Engineering<br />(2017-2019)</li>
+        </ul>
+      </div>
+      <div class="right">
+        <p>
+        Comsats university Islamabad,Lahore Campus
+        </p>
+        <p>
+        Punjab group of Collegees
+        </p>
+      </div>
+    </div>
+
+    <!-- Contact -->
+    <div class="cont_container">
+      <div class="left" style="clear: both;">
+        <div class="heading">
+          <h1 class="heading_text">Contact</h1>
+        </div>
+        <div class="contact_details left">
+          <p><i class="adress"></i>JoharTown, Lahore</p>
+          <p><i class="phone"></i>+923312903333</p>
+          <p><i class="email"></i>ahtishamulhaq2010@gmail.com</p>
+      
+        </div>
+      </div>
+
+      
+    </div>
+  </body>
+</html>
